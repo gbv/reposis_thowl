@@ -30,6 +30,13 @@
         <label xml:lang="x-mapping" text="marcgt:article diniPublType:bookPart diniPublType2022:BookPart schemaOrg:Chapter coarResourceTypes32:c_3248 openAIRE400resourceTypeGeneral:literature" />
         <label xml:lang="it" text="Prefazione / Epilogo" />
         <label xml:lang="en" text="Preface (foreword) / Postface" />
+    </category>
+      <category ID="preprint">
+        <label xml:lang="de" text="Preprint" />
+        <label xml:lang="en" text="Preprint" />
+        <label xml:lang="it" text="Articolo Preliminare" />
+        <label xml:lang="x-hosts" text="series standalone" />
+        <label xml:lang="x-mapping" text="marcgt:preprint diniPublType:preprint diniPublType2022:Preprint" />
       </category>
       <category ID="speech">
         <label xml:lang="en" text="Lecture / Speech" />
@@ -51,6 +58,20 @@
         <label xml:lang="en" text="Blog entry" />
         <label xml:lang="de" text="Blog-Eintrag" />
         <label xml:lang="it" text="Entrata nel blog" />
+      </category>
+    </category>
+    <category ID="conference_output">
+      <label xml:lang="de" text="Konferenzmaterial" />
+      <label xml:lang="en" text="Conference output" />
+      <label xml:lang="en" text="Risultato di Convegno" />
+      <label xml:lang="x-hosts" text="standalone" />
+      <label xml:lang="x-mapping" text="diniPublType:conferenceObject diniPublType2022:ConferenceOutput schemaOrg:ScholarlyArticle" />
+      <category ID="conference_paper">
+        <label xml:lang="de" text="Konferenzbeitrag" />
+        <label xml:lang="en" text="Conference paper" />
+        <label xml:lang="it" text="Comunicazione a Congresso" />
+        <label xml:lang="x-hosts" text="proceedings conference_output standalone" />
+        <label xml:lang="x-mapping" text="marcgt:conference_publication diniPublType:conferenceObject diniPublType2022:ConferencePaper" />
       </category>
     </category>
     <category ID="thesis">
