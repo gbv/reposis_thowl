@@ -6,6 +6,10 @@
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/marcrelator" />
   <label xml:lang="x-auth" text="marcrelator" description="A list of possible contributor roles" />
   <categories>
+    <category ID="dgs">
+      <label xml:lang="de" text="Abschlussbetreuer" description="Eine Person, die einen höheren akademischen Abschluss betreut."/>
+      <label xml:lang="en" text="Degree supervisor" description="A person overseeing a higher level academic degree."/>
+    </category>
     <category ID="cre">
       <label xml:lang="en" text="Creator" description="Use for a person or organization responsible for the intellectual or artistic content of a work." />
       <label xml:lang="de" text="Urheber(in)"
