@@ -5,12 +5,6 @@
   <label description="RFC 5646" text="Lingue" xml:lang="it"/>
   <label description="nach RFC 5646" text="Sprache" xml:lang="de"/>
   <categories>
-    <category ID="cnr">
-      <label text="Montenegrinisch" xml:lang="de"/>
-      <label text="Montenegrin" xml:lang="en"/>
-      <label text="cnr" xml:lang="x-bibl"/>
-      <label text="cnr" xml:lang="x-term"/>
-    </category>
     <category ID="cca">
       <label text="Cauca" xml:lang="en"/>
       <label text="cca" xml:lang="x-bibl"/>
