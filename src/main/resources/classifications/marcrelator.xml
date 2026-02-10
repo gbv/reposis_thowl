@@ -6,6 +6,14 @@
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/marcrelator" />
   <label xml:lang="x-auth" text="marcrelator" description="A list of possible contributor roles" />
   <categories>
+    <category ID="app">
+      <label xml:lang="de" text="Anmelder" description="Eine Person oder Organisation, die für die Einreichung eines Antrags verantwortlich ist oder die als berechtigt für die Ergebnisse der Bearbeitung des Antrags benannt wird (z. B. Verleihung von Rechten, Belohnung, Titel, Position)."/>
+      <label xml:lang="en" text="applicant" description="A person or organization responsible for the submission of an application or who is named as eligible for the results of the processing of the application (e.g., bestowing of rights, reward, title, position)."/>
+    </category>
+    <category ID="inv">
+      <label xml:lang="de" text="Erfinder" description="Eine Person, Familie oder Organisation, die für die Entwicklung eines neuen Geräts oder Prozesses verantwortlich ist."/>
+      <label xml:lang="en" text="inventor" description="A person, family, or organization responsible for creating a new device or process."/>
+    </category>
     <category ID="dgs">
       <label xml:lang="de" text="Abschlussbetreuer" description="Eine Person, die einen höheren akademischen Abschluss betreut."/>
       <label xml:lang="en" text="Degree supervisor" description="A person overseeing a higher level academic degree."/>
