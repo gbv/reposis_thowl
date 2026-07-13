@@ -669,6 +669,10 @@
           <label xml:lang="de" text="FB6 - Labor Virtuelle Produktentwicklung"/>
           <label xml:lang="en" text="FB6 - Labor Virtuelle Produktentwicklung"/>
         </category>
+        <category ID="DEP6020">
+          <label xml:lang="de" text="Institut - iFE Future Energy Institut für Energieforschung"/>
+          <label xml:lang="en" text="Institut - iFE Future Energy Institut für Energieforschung"/>
+        </category>
       </category>
       <category ID="DEP7000">
         <label xml:lang="de" text="Fachbereich 7 Produktions- und Holztechnik"/>
@@ -997,424 +1001,411 @@
       <category ID="DEP1200">
         <label xml:lang="de" text="IWD - Institut für Wissenschaftsdialog"/>
         <label xml:lang="en" text="IWD - Institut für Wissenschaftsdialog"/>
+        <category ID="DEP1201">
+          <label xml:lang="de" text="School of Education"/>
+          <label xml:lang="en" text="School of Education"/>
+        </category>
       </category>
       <category ID="DEP1300">
         <label xml:lang="de" text="Interdisziplinäre Forschungsschwerpunkte"/>
         <label xml:lang="en" text="Interdisziplinäre Forschungsschwerpunkte"/>
+        <category ID="DEP1301">
+          <label xml:lang="de" text="Forschungsschwerpunkt Construction Lab"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt Construction Lab"/>
+        </category>
+        <category ID="DEP1302">
+          <label xml:lang="de" text="Forschungsschwerpunkt Perception Lab"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt Perception Lab"/>
+        </category>
+        <category ID="DEP1303">
+          <label xml:lang="de" text="Forschungsschwerpunkt Urban Lab"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt Urban Lab"/>
+        </category>
+        <category ID="DEP1304">
+          <label xml:lang="de" text="Forschungsschwerpunkt nextPlace"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt nextPlace"/>
+        </category>
+        <category ID="DEP1305">
+          <label xml:lang="de" text="Forschungsschwerpunkt ProErgo"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt ProErgo"/>
+        </category>
+        <category ID="DEP1306">
+          <label xml:lang="de" text="Forschungsschwerpunkt DiMan"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt DiMan"/>
+        </category>
+        <category ID="DEP1307">
+          <label xml:lang="de" text="Forschungsschwerpunkt IES"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt IES"/>
+        </category>
+        <category ID="DEP1308">
+          <label xml:lang="de" text="Forschungsschwerpunkt SmartFood Technology"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt SmartFood Technology"/>
+        </category>
+        <category ID="DEP1310">
+          <label xml:lang="de" text="Forschungsschwerpunkt Kulturlandschaften"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt Kulturlandschaften"/>
+        </category>
+        <category ID="DEP1309">
+          <label xml:lang="de" text="Forschungsschwerpunkt Smart Wood Center"/>
+          <label xml:lang="en" text="Forschungsschwerpunkt Smart Wood Center"/>
+        </category>
       </category>
       <category ID="DEP1400">
         <label xml:lang="de" text="Verwaltung"/>
         <label xml:lang="en" text="Verwaltung"/>
+
+        <category ID="DEP1401">
+          <label xml:lang="de" text="Strategische Hochschulentwicklung"/>
+          <label xml:lang="en" text="Strategische Hochschulentwicklung"/>
+        </category>
+        <category ID="DEP1402">
+          <label xml:lang="de" text="Dez V - Kommunikation und Marketing"/>
+          <label xml:lang="en" text="Dez V - Kommunikation und Marketing"/>
+        </category>
+        <category ID="DEP1403">
+          <label xml:lang="de" text="Forschungs- und Transferzentrum (FTZ)"/>
+          <label xml:lang="en" text="Forschungs- und Transferzentrum (FTZ)"/>
+        </category>
+        <category ID="DEP1404">
+          <label xml:lang="de" text="Dez I - Studentische Angelegenheiten"/>
+          <label xml:lang="en" text="Dez I - Studentische Angelegenheiten"/>
+        </category>
+        <category ID="DEP1405">
+          <label xml:lang="de" text="Dez II - Gebäudemanagement"/>
+          <label xml:lang="en" text="Dez II - Gebäudemanagement"/>
+        </category>
+        <category ID="DEP1406">
+          <label xml:lang="de" text="Dez III - Personal und Organisation"/>
+          <label xml:lang="en" text="Dez III - Personal und Organisation"/>
+        </category>
+        <category ID="DEP1407">
+          <label xml:lang="de" text="Dez IV - Finanzen"/>
+          <label xml:lang="en" text="Dez IV - Finanzen"/>
+        </category>
+        <category ID="DEP1408">
+          <label xml:lang="de" text="Präsidium"/>
+          <label xml:lang="en" text="Präsidium"/>
+        </category>
       </category>
       <category ID="DEP1500">
         <label xml:lang="de" text="Fachbereich Wirtschaftswissenschaften"/>
         <label xml:lang="en" text="Fachbereich Wirtschaftswissenschaften"/>
+        <category ID="DEP1501">
+          <label xml:lang="de" text="FBW - Studiengang Betriebswirtschaftslehre"/>
+          <label xml:lang="en" text="FBW - Studiengang Betriebswirtschaftslehre"/>
+        </category>
+        <category ID="DEP1502">
+          <label xml:lang="de" text="FBW - Studiengang International Logistics Management"/>
+          <label xml:lang="en" text="FBW - Studiengang International Logistics Management"/>
+        </category>
+        <category ID="DEP1503">
+          <label xml:lang="de" text="FBW - Studiengang Internationale Logistik"/>
+          <label xml:lang="en" text="FBW - Studiengang Internationale Logistik"/>
+        </category>
+        <category ID="DEP1504">
+          <label xml:lang="de" text="FBW - Studiengang Management mittelständischer Unternehmen"/>
+          <label xml:lang="en" text="FBW - Studiengang Management mittelständischer Unternehmen"/>
+        </category>
+        <category ID="DEP1505">
+          <label xml:lang="de" text="FBW - Studiengang Wirtschaftspsychologie"/>
+          <label xml:lang="en" text="FBW - Studiengang Wirtschaftspsychologie"/>
+        </category>
+        <category ID="DEP1506">
+          <label xml:lang="de" text="FBW - Fachgebiet Angewandte Informatik und ERP-Systeme"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Angewandte Informatik und ERP-Systeme"/>
+        </category>
+        <category ID="DEP1507">
+          <label xml:lang="de" text="FBW - Fachgebiet Betriebliches Rechnungswesen"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Betriebliches Rechnungswesen"/>
+        </category>
+        <category ID="DEP1508">
+          <label xml:lang="de" text="FBW - Fachgebiet Betriebswirtschaftslehre / Industriebetriebslehre"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Betriebswirtschaftslehre / Industriebetriebslehre"/>
+        </category>
+        <category ID="DEP1509">
+          <label xml:lang="de" text="FBW - Fachgebiet Controlling und Kostenmanagement"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Controlling und Kostenmanagement"/>
+        </category>
+        <category ID="DEP1510">
+          <label xml:lang="de" text="FBW - Fachgebiet Finanz- und Rechnungswesen"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Finanz- und Rechnungswesen"/>
+        </category>
+        <category ID="DEP1511">
+          <label xml:lang="de" text="FBW - Fachgebiet Marketing und Vertrieb"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Marketing und Vertrieb"/>
+        </category>
+        <category ID="DEP1512">
+          <label xml:lang="de" text="FBW - Fachgebiet Personalmanagement"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Personalmanagement"/>
+        </category>
+        <category ID="DEP1513">
+          <label xml:lang="de" text="FBW - Fachgebiet Sprachen Labor"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Sprachen Labor"/>
+        </category>
+        <category ID="DEP1514">
+          <label xml:lang="de" text="FBW - Fachgebiet Volkswirtschaftslehre und Wirtschaftsmathematik"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Volkswirtschaftslehre und Wirtschaftsmathematik"/>
+        </category>
+        <category ID="DEP1515">
+          <label xml:lang="de" text="FBW - Fachgebiet Wirtschaftsprüfung und Steuern"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Wirtschaftsprüfung und Steuern"/>
+        </category>
+        <category ID="DEP1517">
+          <label xml:lang="de" text="FBW - Fachgebiet Arbeits- und Organisationspsychologie"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Arbeits- und Organisationspsychologie"/>
+        </category>
+        <category ID="DEP1518">
+          <label xml:lang="de" text="FBW - Fachgebiet Innovationspsychologie"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Innovationspsychologie"/>
+        </category>
+        <category ID="DEP1519">
+          <label xml:lang="de" text="FBW - Fachgebiet Internationales Management"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Internationales Management"/>
+        </category>
+        <category ID="DEP1520">
+          <label xml:lang="de" text="FBW - Fachgebiet Logistik und Distribution"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Logistik und Distribution"/>
+        </category>
+        <category ID="DEP1521">
+          <label xml:lang="de" text="FBW - Fachgebiet Marketingpsychologie"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Marketingpsychologie"/>
+        </category>
+        <category ID="DEP1522">
+          <label xml:lang="de" text="FBW - Fachgebiet Produktionswirtschaft"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Produktionswirtschaft"/>
+        </category>
+        <category ID="DEP1523">
+          <label xml:lang="de" text="FBW - Fachgebiet Wirtschaftsinformatik"/>
+          <label xml:lang="en" text="FBW - Fachgebiet Wirtschaftsinformatik"/>
+        </category>
       </category>
       <category ID="DEP1600">
         <label xml:lang="de" text="Detmolder Schule für Gestaltung"/>
         <label xml:lang="en" text="Detmolder Schule für Gestaltung"/>
+        <category ID="DEP1601">
+          <label xml:lang="de" text="SFG - Studiengang Architektur"/>
+          <label xml:lang="en" text="SFG - Studiengang Architektur"/>
+        </category>
+        <category ID="DEP1602">
+          <label xml:lang="de" text="SFG - Studiengang Innenarchitektur"/>
+          <label xml:lang="en" text="SFG - Studiengang Innenarchitektur"/>
+        </category>
+        <category ID="DEP1603">
+          <label xml:lang="de" text="SFG - Studiengang Innenarchitektur-Raumkunst"/>
+          <label xml:lang="en" text="SFG - Studiengang Innenarchitektur-Raumkunst"/>
+        </category>
+        <category ID="DEP1604">
+          <label xml:lang="de" text="SFG - Studiengang Stadtplanung"/>
+          <label xml:lang="en" text="SFG - Studiengang Stadtplanung"/>
+        </category>
+        <category ID="DEP1606">
+          <label xml:lang="de" text="SFG - Studiengang Städtebau-NRW"/>
+          <label xml:lang="en" text="SFG - Studiengang Städtebau-NRW"/>
+        </category>
+        <category ID="DEP1609">
+          <label xml:lang="de" text="SFG - Studiengang Integrated Design"/>
+          <label xml:lang="en" text="SFG - Studiengang Integrated Design"/>
+        </category>
+        <category ID="DEP1610">
+          <label xml:lang="de" text="SFG - Studiengang Integrated Architectural Design"/>
+          <label xml:lang="en" text="SFG - Studiengang Integrated Architectural Design"/>
+        </category>
+        <category ID="DEP1611">
+          <label xml:lang="de" text="SFG - Labor CAD"/>
+          <label xml:lang="en" text="SFG - Labor CAD"/>
+        </category>
+        <category ID="DEP1612">
+          <label xml:lang="de" text="SFG - Labor FabLab"/>
+          <label xml:lang="en" text="SFG - Labor FabLab"/>
+        </category>
+        <category ID="DEP1613">
+          <label xml:lang="de" text="SFG - Labor Fotolabor"/>
+          <label xml:lang="en" text="SFG - Labor Fotolabor"/>
+        </category>
+        <category ID="DEP1614">
+          <label xml:lang="de" text="SFG - Labor Modellbau I"/>
+          <label xml:lang="en" text="SFG - Labor Modellbau I"/>
+        </category>
+        <category ID="DEP1615">
+          <label xml:lang="de" text="SFG - Labor Modellbau II"/>
+          <label xml:lang="en" text="SFG - Labor Modellbau II"/>
+        </category>
+        <category ID="DEP1616">
+          <label xml:lang="de" text="SFG - Labor Lichtlabor"/>
+          <label xml:lang="en" text="SFG - Labor Lichtlabor"/>
+        </category>
+        <category ID="DEP1617">
+          <label xml:lang="de" text="SFG - Lehrgebiet Ausbaukonstruktion und Werkstoffe"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Ausbaukonstruktion und Werkstoffe"/>
+        </category>
+        <category ID="DEP1618">
+          <label xml:lang="de" text="SFG - Lehrgebiet Ausstellungsdesign"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Ausstellungsdesign"/>
+        </category>
+        <category ID="DEP1619">
+          <label xml:lang="de" text="SFG - Lehrgebiet Baubetrieb und Projektmanagement"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Baubetrieb und Projektmanagement"/>
+        </category>
+        <category ID="DEP1620">
+          <label xml:lang="de" text="SFG - Lehrgebiet Baukonstruktion und Baustoffe"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Baukonstruktion und Baustoffe"/>
+        </category>
+        <category ID="DEP1621">
+          <label xml:lang="de" text="SFG - Lehrgebiet Baustoffe und Baukonstruktion"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Baustoffe und Baukonstruktion"/>
+        </category>
+        <category ID="DEP1622">
+          <label xml:lang="de" text="SFG - Lehrgebiet Bauphysik und Technischer Ausbau"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Bauphysik und Technischer Ausbau"/>
+        </category>
+        <category ID="DEP1623">
+          <label xml:lang="de" text="SFG - Lehrgebiet Bildhafte Gestaltungsgrundlagen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Bildhafte Gestaltungsgrundlagen"/>
+        </category>
+        <category ID="DEP1624">
+          <label xml:lang="de" text="SFG - Lehrgebiet CAAD | Computer Aided Architectural Design"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet CAAD | Computer Aided Architectural Design"/>
+        </category>
+        <category ID="DEP1625">
+          <label xml:lang="de" text="SFG - Lehrgebiet Digitale Medien und Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Digitale Medien und Entwerfen"/>
+        </category>
+        <category ID="DEP1626">
+          <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen"/>
+        </category>
+        <category ID="DEP1627">
+          <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen des Entwerfens"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen des Entwerfens"/>
+        </category>
+        <category ID="DEP1628">
+          <label xml:lang="de" text="SFG - Lehrgebiet Stadtplanung und städtebauliches Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Stadtplanung und städtebauliches Entwerfen"/>
+        </category>
+        <category ID="DEP1629">
+          <label xml:lang="de" text="SFG - Lehrgebiet Raum- und Farbgestaltung, Grundlagen des Entwerfens"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Raum- und Farbgestaltung, Grundlagen des Entwerfens"/>
+        </category>
+        <category ID="DEP1630">
+          <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen und Konstruieren"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen und Konstruieren"/>
+        </category>
+        <category ID="DEP1631">
+          <label xml:lang="de" text="SFG - Lehrgebiet Landschaftsarchitektur und Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Landschaftsarchitektur und Entwerfen"/>
+        </category>
+        <category ID="DEP1632">
+          <label xml:lang="de" text="SFG - Lehrgebiet Kontextuelles Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Kontextuelles Entwerfen"/>
+        </category>
+        <category ID="DEP1633">
+          <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen von Räumen und Einrichtungen, Schwerpunkt Wohnen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen von Räumen und Einrichtungen, Schwerpunkt Wohnen"/>
+        </category>
+        <category ID="DEP1634">
+          <label xml:lang="de" text="SFG - Lehrgebiet Facade Construction"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Facade Construction"/>
+        </category>
+        <category ID="DEP1635">
+          <label xml:lang="de" text="SFG - Lehrgebiet Facade Design and Technology"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Facade Design and Technology"/>
+        </category>
+        <category ID="DEP1636">
+          <label xml:lang="de" text="SFG - Lehrgebiet Fotografie"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Fotografie"/>
+        </category>
+        <category ID="DEP1637">
+          <label xml:lang="de" text="SFG - Lehrgebiet Gebäude Entwerfen"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Gebäude Entwerfen"/>
+        </category>
+        <category ID="DEP1638">
+          <label xml:lang="de" text="SFG - Lehrgebiet Grafikdesign"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Grafikdesign"/>
+        </category>
+        <category ID="DEP1639">
+          <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen der Gestaltung, plastisches und räumliches Gestalten"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen der Gestaltung, plastisches und räumliches Gestalten"/>
+        </category>
+        <category ID="DEP1640">
+          <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen Lichtgestaltung und Lichtarchitektur"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen Lichtgestaltung und Lichtarchitektur"/>
+        </category>
+        <category ID="DEP1641">
+          <label xml:lang="de" text="SFG - Lehrgebiet Humanwissenschaften"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Humanwissenschaften"/>
+        </category>
+        <category ID="DEP1654">
+          <label xml:lang="de" text="SFG - Lehrgebiet Baumanagement und Baufinanzierung"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Baumanagement und Baufinanzierung"/>
+        </category>
+        <category ID="DEP1642">
+          <label xml:lang="de" text="SFG - Lehrgebiet Kommunikation im Raum"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Kommunikation im Raum"/>
+        </category>
+        <category ID="DEP1643">
+          <label xml:lang="de" text="SFG - Lehrgebiet Kunst und Kulturgeschichte"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Kunst und Kulturgeschichte"/>
+        </category>
+        <category ID="DEP1644">
+          <label xml:lang="de" text="SFG - Lehrgebiet Möbel- und Produktentwicklung"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Möbel- und Produktentwicklung"/>
+        </category>
+        <category ID="DEP1645">
+          <label xml:lang="de" text="SFG - Lehrgebiet Möbelentwicklung"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Möbelentwicklung"/>
+        </category>
+        <category ID="DEP1646">
+          <label xml:lang="de" text="SFG - Lehrgebiet Möbelentwicklung und Ausbauplanung"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Möbelentwicklung und Ausbauplanung"/>
+        </category>
+        <category ID="DEP1647">
+          <label xml:lang="de" text="SFG - Lehrgebiet Planungsbezogene Soziologie, Planungstheorie und -Methodik"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Planungsbezogene Soziologie, Planungstheorie und -Methodik"/>
+        </category>
+        <category ID="DEP1648">
+          <label xml:lang="de" text="SFG - Lehrgebiet Produktdesign und Ergonomie"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Produktdesign und Ergonomie"/>
+        </category>
+        <category ID="DEP1649">
+          <label xml:lang="de" text="SFG - Lehrgebiet Regionalwirtschaft und Stadtökonomie"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Regionalwirtschaft und Stadtökonomie"/>
+        </category>
+        <category ID="DEP1650">
+          <label xml:lang="de" text="SFG - Lehrgebiet Städtebau, Stadt- und Regionalentwicklung"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Städtebau, Stadt- und Regionalentwicklung"/>
+        </category>
+        <category ID="DEP1651">
+          <label xml:lang="de" text="SFG - Lehrgebiet Szenografie"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Szenografie"/>
+        </category>
+        <category ID="DEP1652">
+          <label xml:lang="de" text="SFG - Lehrgebiet Tragwerkslehre"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Tragwerkslehre"/>
+        </category>
+        <category ID="DEP1653">
+          <label xml:lang="de" text="SFG - Lehrgebiet Wohnmedizin"/>
+          <label xml:lang="en" text="SFG - Lehrgebiet Wohnmedizin"/>
+        </category>
       </category>
       <category ID="DEP1700">
         <label xml:lang="de" text="Institute der Fachbereiche"/>
         <label xml:lang="en" text="Institute der Fachbereiche"/>
-      </category>
-
-      <category ID="DEP1055">
-        <label xml:lang="de" text="Institut für Design Strategien (IDS)"/>
-        <label xml:lang="en" text="Institut für Design Strategien (IDS)"/>
-      </category>
-
-
-
-      <category ID="DEP4028">
-        <label xml:lang="de" text="Institut - ILT.NRW Institut for Life Science Technologies"/>
-        <label xml:lang="en" text="Institut - ILT.NRW Institut for Life Science Technologies"/>
-      </category>
-      <category ID="DEP4023">
-        <label xml:lang="de" text="Institut - ILT.NRW Institut für Lebensmitteltechnologie"/>
-        <label xml:lang="en" text="Institut - ILT.NRW Institut für Lebensmitteltechnologie"/>
-      </category>
-
-
-      <category ID="DEP6020">
-        <label xml:lang="de" text="Institut - iFE Future Energy Institut für Energieforschung"/>
-        <label xml:lang="en" text="Institut - iFE Future Energy Institut für Energieforschung"/>
-      </category>
-
-
-
-
-      <category ID="DEP1201">
-        <label xml:lang="de" text="School of Education"/>
-        <label xml:lang="en" text="School of Education"/>
-      </category>
-      <category ID="DEP1301">
-        <label xml:lang="de" text="Forschungsschwerpunkt Construction Lab"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt Construction Lab"/>
-      </category>
-      <category ID="DEP1302">
-        <label xml:lang="de" text="Forschungsschwerpunkt Perception Lab"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt Perception Lab"/>
-      </category>
-      <category ID="DEP1303">
-        <label xml:lang="de" text="Forschungsschwerpunkt Urban Lab"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt Urban Lab"/>
-      </category>
-      <category ID="DEP1304">
-        <label xml:lang="de" text="Forschungsschwerpunkt nextPlace"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt nextPlace"/>
-      </category>
-      <category ID="DEP1305">
-        <label xml:lang="de" text="Forschungsschwerpunkt ProErgo"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt ProErgo"/>
-      </category>
-      <category ID="DEP1306">
-        <label xml:lang="de" text="Forschungsschwerpunkt DiMan"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt DiMan"/>
-      </category>
-      <category ID="DEP1307">
-        <label xml:lang="de" text="Forschungsschwerpunkt IES"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt IES"/>
-      </category>
-      <category ID="DEP1308">
-        <label xml:lang="de" text="Forschungsschwerpunkt SmartFood Technology"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt SmartFood Technology"/>
-      </category>
-      <category ID="DEP1310">
-        <label xml:lang="de" text="Forschungsschwerpunkt Kulturlandschaften"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt Kulturlandschaften"/>
-      </category>
-      <category ID="DEP1309">
-        <label xml:lang="de" text="Forschungsschwerpunkt Smart Wood Center"/>
-        <label xml:lang="en" text="Forschungsschwerpunkt Smart Wood Center"/>
-      </category>
-      <category ID="DEP1401">
-        <label xml:lang="de" text="Strategische Hochschulentwicklung"/>
-        <label xml:lang="en" text="Strategische Hochschulentwicklung"/>
-      </category>
-      <category ID="DEP1402">
-        <label xml:lang="de" text="Dez V - Kommunikation und Marketing"/>
-        <label xml:lang="en" text="Dez V - Kommunikation und Marketing"/>
-      </category>
-      <category ID="DEP1403">
-        <label xml:lang="de" text="Forschungs- und Transferzentrum (FTZ)"/>
-        <label xml:lang="en" text="Forschungs- und Transferzentrum (FTZ)"/>
-      </category>
-      <category ID="DEP1404">
-        <label xml:lang="de" text="Dez I - Studentische Angelegenheiten"/>
-        <label xml:lang="en" text="Dez I - Studentische Angelegenheiten"/>
-      </category>
-      <category ID="DEP1405">
-        <label xml:lang="de" text="Dez II - Gebäudemanagement"/>
-        <label xml:lang="en" text="Dez II - Gebäudemanagement"/>
-      </category>
-      <category ID="DEP1406">
-        <label xml:lang="de" text="Dez III - Personal und Organisation"/>
-        <label xml:lang="en" text="Dez III - Personal und Organisation"/>
-      </category>
-      <category ID="DEP1407">
-        <label xml:lang="de" text="Dez IV - Finanzen"/>
-        <label xml:lang="en" text="Dez IV - Finanzen"/>
-      </category>
-      <category ID="DEP1408">
-        <label xml:lang="de" text="Präsidium"/>
-        <label xml:lang="en" text="Präsidium"/>
-      </category>
-      <category ID="DEP1501">
-        <label xml:lang="de" text="FBW - Studiengang Betriebswirtschaftslehre"/>
-        <label xml:lang="en" text="FBW - Studiengang Betriebswirtschaftslehre"/>
-      </category>
-      <category ID="DEP1502">
-        <label xml:lang="de" text="FBW - Studiengang International Logistics Management"/>
-        <label xml:lang="en" text="FBW - Studiengang International Logistics Management"/>
-      </category>
-      <category ID="DEP1503">
-        <label xml:lang="de" text="FBW - Studiengang Internationale Logistik"/>
-        <label xml:lang="en" text="FBW - Studiengang Internationale Logistik"/>
-      </category>
-      <category ID="DEP1504">
-        <label xml:lang="de" text="FBW - Studiengang Management mittelständischer Unternehmen"/>
-        <label xml:lang="en" text="FBW - Studiengang Management mittelständischer Unternehmen"/>
-      </category>
-      <category ID="DEP1505">
-        <label xml:lang="de" text="FBW - Studiengang Wirtschaftspsychologie"/>
-        <label xml:lang="en" text="FBW - Studiengang Wirtschaftspsychologie"/>
-      </category>
-      <category ID="DEP1506">
-        <label xml:lang="de" text="FBW - Fachgebiet Angewandte Informatik und ERP-Systeme"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Angewandte Informatik und ERP-Systeme"/>
-      </category>
-      <category ID="DEP1507">
-        <label xml:lang="de" text="FBW - Fachgebiet Betriebliches Rechnungswesen"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Betriebliches Rechnungswesen"/>
-      </category>
-      <category ID="DEP1508">
-        <label xml:lang="de" text="FBW - Fachgebiet Betriebswirtschaftslehre / Industriebetriebslehre"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Betriebswirtschaftslehre / Industriebetriebslehre"/>
-      </category>
-      <category ID="DEP1509">
-        <label xml:lang="de" text="FBW - Fachgebiet Controlling und Kostenmanagement"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Controlling und Kostenmanagement"/>
-      </category>
-      <category ID="DEP1510">
-        <label xml:lang="de" text="FBW - Fachgebiet Finanz- und Rechnungswesen"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Finanz- und Rechnungswesen"/>
-      </category>
-      <category ID="DEP1511">
-        <label xml:lang="de" text="FBW - Fachgebiet Marketing und Vertrieb"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Marketing und Vertrieb"/>
-      </category>
-      <category ID="DEP1512">
-        <label xml:lang="de" text="FBW - Fachgebiet Personalmanagement"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Personalmanagement"/>
-      </category>
-      <category ID="DEP1513">
-        <label xml:lang="de" text="FBW - Fachgebiet Sprachen Labor"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Sprachen Labor"/>
-      </category>
-      <category ID="DEP1514">
-        <label xml:lang="de" text="FBW - Fachgebiet Volkswirtschaftslehre und Wirtschaftsmathematik"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Volkswirtschaftslehre und Wirtschaftsmathematik"/>
-      </category>
-      <category ID="DEP1515">
-        <label xml:lang="de" text="FBW - Fachgebiet Wirtschaftsprüfung und Steuern"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Wirtschaftsprüfung und Steuern"/>
-      </category>
-      <category ID="DEP1517">
-        <label xml:lang="de" text="FBW - Fachgebiet Arbeits- und Organisationspsychologie"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Arbeits- und Organisationspsychologie"/>
-      </category>
-      <category ID="DEP1518">
-        <label xml:lang="de" text="FBW - Fachgebiet Innovationspsychologie"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Innovationspsychologie"/>
-      </category>
-      <category ID="DEP1519">
-        <label xml:lang="de" text="FBW - Fachgebiet Internationales Management"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Internationales Management"/>
-      </category>
-      <category ID="DEP1520">
-        <label xml:lang="de" text="FBW - Fachgebiet Logistik und Distribution"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Logistik und Distribution"/>
-      </category>
-      <category ID="DEP1521">
-        <label xml:lang="de" text="FBW - Fachgebiet Marketingpsychologie"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Marketingpsychologie"/>
-      </category>
-      <category ID="DEP1522">
-        <label xml:lang="de" text="FBW - Fachgebiet Produktionswirtschaft"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Produktionswirtschaft"/>
-      </category>
-      <category ID="DEP1523">
-        <label xml:lang="de" text="FBW - Fachgebiet Wirtschaftsinformatik"/>
-        <label xml:lang="en" text="FBW - Fachgebiet Wirtschaftsinformatik"/>
-      </category>
-      <category ID="DEP1601">
-        <label xml:lang="de" text="SFG - Studiengang Architektur"/>
-        <label xml:lang="en" text="SFG - Studiengang Architektur"/>
-      </category>
-      <category ID="DEP1602">
-        <label xml:lang="de" text="SFG - Studiengang Innenarchitektur"/>
-        <label xml:lang="en" text="SFG - Studiengang Innenarchitektur"/>
-      </category>
-      <category ID="DEP1603">
-        <label xml:lang="de" text="SFG - Studiengang Innenarchitektur-Raumkunst"/>
-        <label xml:lang="en" text="SFG - Studiengang Innenarchitektur-Raumkunst"/>
-      </category>
-      <category ID="DEP1604">
-        <label xml:lang="de" text="SFG - Studiengang Stadtplanung"/>
-        <label xml:lang="en" text="SFG - Studiengang Stadtplanung"/>
-      </category>
-      <category ID="DEP1606">
-        <label xml:lang="de" text="SFG - Studiengang Städtebau-NRW"/>
-        <label xml:lang="en" text="SFG - Studiengang Städtebau-NRW"/>
-      </category>
-      <category ID="DEP1609">
-        <label xml:lang="de" text="SFG - Studiengang Integrated Design"/>
-        <label xml:lang="en" text="SFG - Studiengang Integrated Design"/>
-      </category>
-      <category ID="DEP1610">
-        <label xml:lang="de" text="SFG - Studiengang Integrated Architectural Design"/>
-        <label xml:lang="en" text="SFG - Studiengang Integrated Architectural Design"/>
-      </category>
-      <category ID="DEP1611">
-        <label xml:lang="de" text="SFG - Labor CAD"/>
-        <label xml:lang="en" text="SFG - Labor CAD"/>
-      </category>
-      <category ID="DEP1612">
-        <label xml:lang="de" text="SFG - Labor FabLab"/>
-        <label xml:lang="en" text="SFG - Labor FabLab"/>
-      </category>
-      <category ID="DEP1613">
-        <label xml:lang="de" text="SFG - Labor Fotolabor"/>
-        <label xml:lang="en" text="SFG - Labor Fotolabor"/>
-      </category>
-      <category ID="DEP1614">
-        <label xml:lang="de" text="SFG - Labor Modellbau I"/>
-        <label xml:lang="en" text="SFG - Labor Modellbau I"/>
-      </category>
-      <category ID="DEP1615">
-        <label xml:lang="de" text="SFG - Labor Modellbau II"/>
-        <label xml:lang="en" text="SFG - Labor Modellbau II"/>
-      </category>
-      <category ID="DEP1616">
-        <label xml:lang="de" text="SFG - Labor Lichtlabor"/>
-        <label xml:lang="en" text="SFG - Labor Lichtlabor"/>
-      </category>
-      <category ID="DEP1617">
-        <label xml:lang="de" text="SFG - Lehrgebiet Ausbaukonstruktion und Werkstoffe"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Ausbaukonstruktion und Werkstoffe"/>
-      </category>
-      <category ID="DEP1618">
-        <label xml:lang="de" text="SFG - Lehrgebiet Ausstellungsdesign"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Ausstellungsdesign"/>
-      </category>
-      <category ID="DEP1619">
-        <label xml:lang="de" text="SFG - Lehrgebiet Baubetrieb und Projektmanagement"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Baubetrieb und Projektmanagement"/>
-      </category>
-      <category ID="DEP1620">
-        <label xml:lang="de" text="SFG - Lehrgebiet Baukonstruktion und Baustoffe"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Baukonstruktion und Baustoffe"/>
-      </category>
-      <category ID="DEP1621">
-        <label xml:lang="de" text="SFG - Lehrgebiet Baustoffe und Baukonstruktion"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Baustoffe und Baukonstruktion"/>
-      </category>
-      <category ID="DEP1622">
-        <label xml:lang="de" text="SFG - Lehrgebiet Bauphysik und Technischer Ausbau"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Bauphysik und Technischer Ausbau"/>
-      </category>
-      <category ID="DEP1623">
-        <label xml:lang="de" text="SFG - Lehrgebiet Bildhafte Gestaltungsgrundlagen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Bildhafte Gestaltungsgrundlagen"/>
-      </category>
-      <category ID="DEP1624">
-        <label xml:lang="de" text="SFG - Lehrgebiet CAAD | Computer Aided Architectural Design"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet CAAD | Computer Aided Architectural Design"/>
-      </category>
-      <category ID="DEP1625">
-        <label xml:lang="de" text="SFG - Lehrgebiet Digitale Medien und Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Digitale Medien und Entwerfen"/>
-      </category>
-      <category ID="DEP1626">
-        <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen"/>
-      </category>
-      <category ID="DEP1627">
-        <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen des Entwerfens"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen des Entwerfens"/>
-      </category>
-      <category ID="DEP1628">
-        <label xml:lang="de" text="SFG - Lehrgebiet Stadtplanung und städtebauliches Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Stadtplanung und städtebauliches Entwerfen"/>
-      </category>
-      <category ID="DEP1629">
-        <label xml:lang="de" text="SFG - Lehrgebiet Raum- und Farbgestaltung, Grundlagen des Entwerfens"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Raum- und Farbgestaltung, Grundlagen des Entwerfens"/>
-      </category>
-      <category ID="DEP1630">
-        <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen und Konstruieren"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen und Konstruieren"/>
-      </category>
-      <category ID="DEP1631">
-        <label xml:lang="de" text="SFG - Lehrgebiet Landschaftsarchitektur und Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Landschaftsarchitektur und Entwerfen"/>
-      </category>
-      <category ID="DEP1632">
-        <label xml:lang="de" text="SFG - Lehrgebiet Kontextuelles Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Kontextuelles Entwerfen"/>
-      </category>
-      <category ID="DEP1633">
-        <label xml:lang="de" text="SFG - Lehrgebiet Entwerfen von Räumen und Einrichtungen, Schwerpunkt Wohnen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Entwerfen von Räumen und Einrichtungen, Schwerpunkt Wohnen"/>
-      </category>
-      <category ID="DEP1634">
-        <label xml:lang="de" text="SFG - Lehrgebiet Facade Construction"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Facade Construction"/>
-      </category>
-      <category ID="DEP1635">
-        <label xml:lang="de" text="SFG - Lehrgebiet Facade Design and Technology"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Facade Design and Technology"/>
-      </category>
-      <category ID="DEP1636">
-        <label xml:lang="de" text="SFG - Lehrgebiet Fotografie"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Fotografie"/>
-      </category>
-      <category ID="DEP1637">
-        <label xml:lang="de" text="SFG - Lehrgebiet Gebäude Entwerfen"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Gebäude Entwerfen"/>
-      </category>
-      <category ID="DEP1638">
-        <label xml:lang="de" text="SFG - Lehrgebiet Grafikdesign"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Grafikdesign"/>
-      </category>
-      <category ID="DEP1639">
-        <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen der Gestaltung, plastisches und räumliches Gestalten"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen der Gestaltung, plastisches und räumliches Gestalten"/>
-      </category>
-      <category ID="DEP1640">
-        <label xml:lang="de" text="SFG - Lehrgebiet Grundlagen Lichtgestaltung und Lichtarchitektur"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Grundlagen Lichtgestaltung und Lichtarchitektur"/>
-      </category>
-      <category ID="DEP1641">
-        <label xml:lang="de" text="SFG - Lehrgebiet Humanwissenschaften"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Humanwissenschaften"/>
-      </category>
-      <category ID="DEP1654">
-        <label xml:lang="de" text="SFG - Lehrgebiet Baumanagement und Baufinanzierung"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Baumanagement und Baufinanzierung"/>
-      </category>
-      <category ID="DEP1642">
-        <label xml:lang="de" text="SFG - Lehrgebiet Kommunikation im Raum"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Kommunikation im Raum"/>
-      </category>
-      <category ID="DEP1643">
-        <label xml:lang="de" text="SFG - Lehrgebiet Kunst und Kulturgeschichte"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Kunst und Kulturgeschichte"/>
-      </category>
-      <category ID="DEP1644">
-        <label xml:lang="de" text="SFG - Lehrgebiet Möbel- und Produktentwicklung"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Möbel- und Produktentwicklung"/>
-      </category>
-      <category ID="DEP1645">
-        <label xml:lang="de" text="SFG - Lehrgebiet Möbelentwicklung"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Möbelentwicklung"/>
-      </category>
-      <category ID="DEP1646">
-        <label xml:lang="de" text="SFG - Lehrgebiet Möbelentwicklung und Ausbauplanung"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Möbelentwicklung und Ausbauplanung"/>
-      </category>
-      <category ID="DEP1647">
-        <label xml:lang="de" text="SFG - Lehrgebiet Planungsbezogene Soziologie, Planungstheorie und -Methodik"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Planungsbezogene Soziologie, Planungstheorie und -Methodik"/>
-      </category>
-      <category ID="DEP1648">
-        <label xml:lang="de" text="SFG - Lehrgebiet Produktdesign und Ergonomie"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Produktdesign und Ergonomie"/>
-      </category>
-      <category ID="DEP1649">
-        <label xml:lang="de" text="SFG - Lehrgebiet Regionalwirtschaft und Stadtökonomie"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Regionalwirtschaft und Stadtökonomie"/>
-      </category>
-      <category ID="DEP1650">
-        <label xml:lang="de" text="SFG - Lehrgebiet Städtebau, Stadt- und Regionalentwicklung"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Städtebau, Stadt- und Regionalentwicklung"/>
-      </category>
-      <category ID="DEP1651">
-        <label xml:lang="de" text="SFG - Lehrgebiet Szenografie"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Szenografie"/>
-      </category>
-      <category ID="DEP1652">
-        <label xml:lang="de" text="SFG - Lehrgebiet Tragwerkslehre"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Tragwerkslehre"/>
-      </category>
-      <category ID="DEP1653">
-        <label xml:lang="de" text="SFG - Lehrgebiet Wohnmedizin"/>
-        <label xml:lang="en" text="SFG - Lehrgebiet Wohnmedizin"/>
-      </category>
-      <category ID="DEP1701">
-        <label xml:lang="de" text="KreativInstitut.OWL (KiO)"/>
-        <label xml:lang="en" text="KreativInstitut.OWL (KiO)"/>
+        <category ID="DEP1701">
+          <label xml:lang="de" text="KreativInstitut.OWL (KiO)"/>
+          <label xml:lang="en" text="KreativInstitut.OWL (KiO)"/>
+        </category>
+        <category ID="DEP1055">
+          <label xml:lang="de" text="Institut für Design Strategien (IDS)"/>
+          <label xml:lang="en" text="Institut für Design Strategien (IDS)"/>
+        </category>
+        <category ID="DEP4028">
+          <label xml:lang="de" text="Institut - ILT.NRW Institut for Life Science Technologies"/>
+          <label xml:lang="en" text="Institut - ILT.NRW Institut for Life Science Technologies"/>
+        </category>
+        <category ID="DEP4023">
+          <label xml:lang="de" text="Institut - ILT.NRW Institut für Lebensmitteltechnologie"/>
+          <label xml:lang="en" text="Institut - ILT.NRW Institut für Lebensmitteltechnologie"/>
+        </category>
       </category>
     </categories>
 </mycoreclass>
