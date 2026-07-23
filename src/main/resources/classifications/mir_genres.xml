@@ -5,23 +5,11 @@
   <label xml:lang="x-uri" text="http://www.mycore.org/classifications/mir_genres"/>
   <label xml:lang="de" text="Genre" description="Liste der Publikationsarten"/>
   <categories>
-    <category ID="working_paper">
-      <label xml:lang="de" text="Diskussionspapier"/>
-      <label xml:lang="en" text="Working Paper"/>
-      <label xml:lang="x-hosts" text="standalone"/>
-      <label xml:lang="x-mapping" text="marcgt:series diniPublType:other diniPublType2022:workingPaper"/>
-    </category>
-    <category ID="exhibition_resources">
-      <label xml:lang="de" text="Ausstellungsmaterial"/>
-      <label xml:lang="en" text="Exhibition resources"/>
-      <label xml:lang="it" text="Risorse del Esposizione"/>
-      <label xml:lang="x-hosts" text="standalone"/>
-      <label xml:lang="x-mapping" text="marcgt:article diniPublType:other diniPublType2022:Other"/>
-    </category>
     <category ID="contribution">
     <label xml:lang="de" text="Beitrag" />
     <label xml:lang="en" text="Contribution" />
     <label xml:lang="x-group" text="true" />
+
     <category ID="article">
       <label xml:lang="de" text="Artikel / Aufsatz" />
       <label xml:lang="en" text="Article / Chapter" />
@@ -48,6 +36,13 @@
                text="marcgt:article diniPublType:bookPart diniPublType2022:BookPart schemaOrg:Chapter coarResourceTypes32:c_3248 openAIRE400resourceTypeGeneral:literature"/>
         <label xml:lang="x-hosts" text="book collection"/>
         <label xml:lang="it" text="Capitolo di libro"/>
+      </category>
+      <category ID="abstract">
+        <label xml:lang="de" text="Abstract / Zusammenfassung"/>
+        <label xml:lang="en" text="abstract / summary"/>
+        <label xml:lang="x-hosts" text="proceedings"/>
+        <label xml:lang="x-mapping"
+               text="marcgt:abstract_or_summary diniPublType:article diniPublType2022:Article schemaOrg:CreativeWork"/>
       </category>
       <category ID="entry">
         <label xml:lang="en" text="Encyclopedia entry"/>
@@ -89,12 +84,6 @@
         <label xml:lang="it" text="Entrata nel blog"/>
       </category>
     </category>
-    <category ID="conference_output">
-      <label xml:lang="de" text="Konferenzmaterial"/>
-      <label xml:lang="en" text="Conference output"/>
-      <label xml:lang="x-hosts" text="standalone"/>
-      <label xml:lang="x-mapping"
-             text="diniPublType:conferenceObject diniPublType2022:ConferenceOutput schemaOrg:ScholarlyArticle"/>
       <category ID="conference_paper">
         <label xml:lang="de" text="Konferenzbeitrag"/>
         <label xml:lang="en" text="Conference paper"/>
@@ -103,6 +92,18 @@
         <label xml:lang="x-mapping"
                text="marcgt:conference_publication diniPublType:conferenceObject diniPublType2022:ConferencePaper"/>
       </category>
+    <category ID="working_paper">
+      <label xml:lang="de" text="Diskussionspapier"/>
+      <label xml:lang="en" text="Working Paper"/>
+      <label xml:lang="x-hosts" text="standalone"/>
+      <label xml:lang="x-mapping" text="marcgt:series diniPublType:other diniPublType2022:workingPaper"/>
+    </category>
+    <category ID="exhibition_resources">
+      <label xml:lang="de" text="Ausstellungsmaterial"/>
+      <label xml:lang="en" text="Exhibition resources"/>
+      <label xml:lang="it" text="Risorse del Esposizione"/>
+      <label xml:lang="x-hosts" text="standalone"/>
+      <label xml:lang="x-mapping" text="marcgt:article diniPublType:other diniPublType2022:Other"/>
     </category>
     <category ID="thesis">
       <label xml:lang="en" text="Thesis"/>
@@ -169,13 +170,6 @@
         <label xml:lang="it" text="Risultati della ricerca"/>
       </category>
 
-      <category ID="abstract">
-        <label xml:lang="de" text="Abstract / Zusammenfassung"/>
-        <label xml:lang="en" text="abstract / summary"/>
-        <label xml:lang="x-hosts" text="proceedings"/>
-        <label xml:lang="x-mapping"
-               text="marcgt:abstract_or_summary diniPublType:article diniPublType2022:Article schemaOrg:CreativeWork"/>
-      </category>
     </category>
     <category ID="book">
       <label xml:lang="de" text="Buch"/>
@@ -228,13 +222,13 @@
       <label xml:lang="it" text="Rivista"/>
       <label xml:lang="x-mapping"
              text="marcgt:journal diniPublType:Periodical diniPublType2022:Periodical schemaOrg:Periodical coarResourceTypes32:c_0640 openAIRE400resourceTypeGeneral:literature"/>
-      <category ID="issue">
-        <label xml:lang="de" text="Zeitschriftenheft"/>
-        <label xml:lang="en" text="Journal Issue"/>
-        <label xml:lang="x-hosts" text="standalone journal series"/>
-        <label xml:lang="x-mapping"
-               text="marcgt:issue diniPublType:PeriodicalPart diniPublType2022:PeriodicalPart schemaOrg:PublicationIssue coarResourceTypes32:QX5C-AR31 openAIRE400resourceTypeGeneral:literature"/>
-      </category>
+    </category>
+    <category ID="issue">
+      <label xml:lang="de" text="Zeitschriftenheft"/>
+      <label xml:lang="en" text="Journal Issue"/>
+      <label xml:lang="x-hosts" text="standalone journal series"/>
+      <label xml:lang="x-mapping"
+             text="marcgt:issue diniPublType:PeriodicalPart diniPublType2022:PeriodicalPart schemaOrg:PublicationIssue coarResourceTypes32:QX5C-AR31 openAIRE400resourceTypeGeneral:literature"/>
     </category>
     <category ID="newspaper">
       <label xml:lang="x-hosts" text="standalone"/>
