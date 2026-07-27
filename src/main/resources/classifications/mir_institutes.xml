@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <mycoreclass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="MCRClassification.xsd"
-             ID="thowl_institutes">
+             ID="mir_institutes">
   <label xml:lang="en" text="Thowl Institutions" description="A list of institutions"/>
   <label xml:lang="de" text="Thowl-Einrichtungen" description="Liste der Einrichtungen"/>
   <label xml:lang="x-uri" text="publikationen-thowl.gbv.de/classifications/thowl_institutes"/>
