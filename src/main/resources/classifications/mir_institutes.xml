@@ -3,7 +3,7 @@
              ID="mir_institutes">
   <label xml:lang="en" text="Thowl Institutions" description="A list of institutions"/>
   <label xml:lang="de" text="Thowl-Einrichtungen" description="Liste der Einrichtungen"/>
-  <label xml:lang="x-uri" text="publikationen-thowl.gbv.de/classifications/thowl_institutes"/>
+  <label xml:lang="x-uri" text="https://publikationen-thowl.gbv.de/classifications/mir_institutes"/>
   <categories>
     <category ID="F01599">
       <label xml:lang="de" text="Bauen und Umwelt"/>
