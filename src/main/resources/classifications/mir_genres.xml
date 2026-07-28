@@ -21,7 +21,7 @@
         <label xml:lang="de" text="Zeitschriftenaufsatz (Fach-/Branchenpresse)" />
         <label xml:lang="en" text="Trade Journal Article" />
         <label xml:lang="x-hosts" text="journal" />
-        <label xml:lang="x-mapping" text="marcgt:article  diniPublType2022:ContributionToPeriodical schemaOrg:TechArticle" />
+        <label xml:lang="x-mapping" text="marcgt:article diniPublType2022:ContributionToPeriodical schemaOrg:TechArticle" />
       </category>
       <category ID="scientific_journal_article">
         <label xml:lang="de" text="Zeitschriftenaufsatz (wissenschaftlich)" />
