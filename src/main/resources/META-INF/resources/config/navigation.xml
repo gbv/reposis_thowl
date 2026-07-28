@@ -82,8 +82,8 @@
       <label xml:lang="en">My submissions</label>
     </item>
     <item href="/editor/editor-admins.xed" type="intern" replaceMenu="false" constrainPopUp="false">
-        <label xml:lang="de">Publizieren (Admin)</label>
-        <label xml:lang="en">Publish (admin)</label>
+      <label xml:lang="de">Publizieren (Admin)</label>
+      <label xml:lang="en">Publish (admin)</label>
     </item>
     <item href="/content/publish/guidelines.xml" type="intern">
       <label xml:lang="de">Leitlinien</label>
@@ -153,7 +153,7 @@
         <label xml:lang="en">WCMS</label>
       </item>
     </group>
-    <item href="/servlets/logout?url=../content/index.xml" type="intern">
+    <item href="/servlets/logout?url={WebApplicationBaseURLEncoded}content/index.xml" type="intern">
       <label xml:lang="de">Abmelden</label>
       <label xml:lang="en">Logout</label>
     </item>

@@ -6,7 +6,7 @@ name: Maven Snapshot deploy
 on:
   push:
     branches:
-      - '2024.06.x'
+      - 'main'
 
 jobs:
   build:
