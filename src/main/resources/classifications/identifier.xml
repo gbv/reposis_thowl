@@ -5,16 +5,20 @@
   <label xml:lang="x-uri" text="https://publikationen-thowl.gbv.de/api/v2/classifications/identifier" />
   <categories>
     <category ID="patentApplication">
-      <label xml:lang="de" text="Patent Anmeldenummer" />4
+      <label xml:lang="de" text="Patent Anmeldenummer" />
       <label xml:lang="en" text="patent application number" />
     </category>
     <category ID="ISI">
       <label xml:lang="de" text="ISI" />
       <label xml:lang="en" text="ISI" />
     </category>
-    <category ID="pubmed">
+    <category ID="MEDLINE">
       <label xml:lang="de" text="MEDLINE" />
       <label xml:lang="en" text="MEDLINE" />
+    </category>
+    <category ID="pubmed">
+      <label xml:lang="de" text="pubmed" />
+      <label xml:lang="en" text="pubmed" />
     </category>
     <category ID="isbn">
       <label xml:lang="de" text="ISBN" />
