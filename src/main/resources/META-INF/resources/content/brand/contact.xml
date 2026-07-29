@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MyCoReWebPage>
+<MyCoReWebPage>
+  <section xml:lang="de" title="Kontakt">
+    <div class="row">
+      <div class="col-md-12" lang="de">
+        <h2>Kontakt</h2>
+        <p>
+          <strong>Technische Hochschule Ostwestfalen-Lippe</strong>
+          <br/>
+          Name
+          <br/>
+          E-Mail:
+          <span class="madress">support[at]]th-owl.de</span>
+          <br/>
+          Telefon: [+49 5261 702-2222|tel:+4952617022222]
+        </p>
+      </div>
+    </div>
+
+  </section>
+</MyCoReWebPage>

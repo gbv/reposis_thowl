@@ -11,14 +11,22 @@
       <label xml:lang="de">Start</label>
       <label xml:lang="en">Start</label>
     </item>
-    <item href="/content/brand/impressum.xml" type="intern">
+    <item href="https://www.th-owl.de/impressum/"  type="intern" replaceMenu="false" constrainPopUp="false">
       <label xml:lang="de">Impressum</label>
       <label xml:lang="en">Impressum</label>
+    </item>    <item href="https://www.th-owl.de/barrierefreiheit/"  type="intern" replaceMenu="false" constrainPopUp="false">
+      <label xml:lang="de">Barrierefreiheit</label>
+      <label xml:lang="en">Accessibility</label>
     </item>
     <item href="/content/brand/contact.xml" type="intern">
       <label xml:lang="de">Kontakt</label>
       <label xml:lang="en">Contact</label>
     </item>
+    <item href="/content/brand/policy.xml" type="intern">
+      <label xml:lang="de">Publikationsvertrag</label>
+      <label xml:lang="en">Publishing Policy</label>
+    </item>
+
   </menu>
   <menu id="below" dir="/content/below">
     <label xml:lang="de">Footer-Menü</label>
