@@ -88,7 +88,7 @@
         <label xml:lang="de" text="Konferenzbeitrag"/>
         <label xml:lang="en" text="Conference paper"/>
         <label xml:lang="it" text="Comunicazione a Congresso"/>
-        <label xml:lang="x-hosts" text="proceedings conference_output standalone"/>
+        <label xml:lang="x-hosts" text="proceedings standalone"/>
         <label xml:lang="x-mapping"
                text="marcgt:conference_publication diniPublType:conferenceObject diniPublType2022:ConferencePaper"/>
       </category>

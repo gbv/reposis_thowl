@@ -11,11 +11,31 @@
         -->
     </xed:modify>
 
+    <xed:template id="genres.industry_journal_article">
+        <xed:include ref="genres.article" />
+    </xed:template>
+    <xed:template id="genres.scientific_journal_article">
+        <xed:include ref="genres.article" />
+    </xed:template>
+    <xed:template id="genres.abstract">
+        <xed:include ref="genres.article" />
+    </xed:template>
+    <xed:template id="genres.conference_paper">
+        <xed:include ref="genres.publication.common" />
+    </xed:template>
+    <xed:template id="genres.working_paper">
+        <xed:include ref="genres.publication.common" />
+    </xed:template>
+    <xed:template id="genres.exhibition_resources">
+        <xed:include ref="genres.publication.common" />
+    </xed:template>
 
-    <!-- ========== validation ========== -->
-
-
-    <!-- ========== project specific templates ========== -->
+    <xed:template id="genres.translation">
+        <xed:include ref="genres.book" />
+    </xed:template>
+    <xed:template id="genres.monograph">
+        <xed:include ref="genres.book" />
+    </xed:template>
 
 
 </xed:template>
