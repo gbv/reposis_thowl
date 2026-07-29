@@ -14,8 +14,55 @@
 //  project settings
 // --------------------------------------------------
 
+$owl-red:          #e50043;  //RGB 229/0/67
+$owl-red-dark:     #99002d;
+$owl-black:        #425159;  //RGB 66/81/89
+$owl-gray-lighter: #f2f2f2;
+$owl-gray-light:   #f8f9fa;
+$owl-gray:         #425159;
+$owl-gray-dark:    #212529;
 
 
 // --------------------------------------------------
 //  overwrite bootstrap
 // --------------------------------------------------
+
+$primary: $owl-red;
+$secondary: $owl-black;
+
+$web-font-path: '';
+$font-family-sans-serif: "Open Sans",system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-size-base: 1rem;
+$text-color: $owl-gray-dark;
+
+$link-color:            $owl-red;
+$link-hover-color:      $owl-red-dark;
+$link-decoration:       none !default;
+$link-hover-decoration: underline !default;
+
+$h1-font-size: 1.75rem;
+$h2-font-size: 1.6rem;
+$h3-font-size: 1.4rem;
+$h4-font-size: 1.25rem;
+$h5-font-size: 1.125rem;
+$h6-font-size: 1rem;
+
+$navbar-padding-y: .25rem;
+$navbar-light-color: $owl-gray;
+$navbar-light-hover-color: $owl-red-dark;
+$navbar-light-active-color: $owl-red;
+$navbar-nav-link-padding-x: 1rem;
+
+$nav-link-font-size: 1.3em;
+$nav-link-font-weight: 700;
+$nav-link-color: $owl-gray;
+$nav-link-hover-color: $owl-red-dark;
+
+$dropdown-color: $owl-gray-dark;
+$dropdown-bg: white;
+$dropdown-link-color: $owl-gray-dark;
+$dropdown-link-hover-color: $owl-red;
+$dropdown-link-hover-bg: $owl-gray-light;
+$dropdown-link-active-color: white;
+$dropdown-link-active-bg: $owl-red;
+$dropdown-border-radius: 0;
