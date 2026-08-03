@@ -4,56 +4,15 @@
   <section title="Willkommen bei MIR!" xml:lang="de">
     <div class="jumbotwo">
       <div class="row">
-        <div class="col-12">
-          <h2>Mods Institutional Repository (MIR)</h2>
-        </div>
-        <div class="col-md-4">
-          <h3>
-            <span class="fas fa-check"></span>
-            fertig
-          </h3>
-          <p>
-            MIR ist eine MyCoRe-Software, die mit nur wenigen Anpassungen - so wie sie ist - als Repositorium
-            eingesetzt werden kann.
-          </p>
-          <p>
-            <a
-              class="btn btn-secondary"
-              href="https://www.mycore.de/documentation/getting_started/gs_mir_install/"
-              role="button">
-              weitere Informationen »
-            </a>
-          </p>
-        </div>
-        <div class="col-md-4">
-          <h3>
-            <span class="fas fa-bolt"></span>
-            mächtig
-          </h3>
-          <p>
-            MIR verwendet das mächtige und bewährte MODS-Datenmodell. Den Kern der Webanwendung bildet MyCoRe mit einer
-            Vielzahl von Funktionen.
-          </p>
-          <p>
-            <a class="btn btn-secondary" href="https://www.mycore.de/site/features/" role="button">
-              weitere Informationen »
-            </a>
-          </p>
-        </div>
-        <div class="col-md-4">
-          <h3>
-            <span class="fas fa-heart"></span>
-            lebendig
-          </h3>
-          <p>
-            MIR basiert auf dem Software-Kern MyCoRe, der kontinuierlich weiter entwickelt wird. Eine lebendige
-            Community setzt MIR in ihren Anwendungen ein.
-          </p>
-          <p>
-            <a class="btn btn-secondary" href="https://www.mycore.de/site/community/contact/" role="button">
-              weitere Informationen »
-            </a>
-          </p>
+        <div class="col">
+          <h2>ELSA</h2>
+          <h3>Publikationen an der Technischen Hochschule Ostwestfalen-Lippe</h3>
+          <h4>Willkommen bei ELSA</h4>
+          <p>ELSA (Elektronische Schriften und Aufsätze) ist der Publikationsserver der TH OWL. Hier werden wissenschaftliche Publikationen der Hochschule zentral erfasst, dauerhaft archiviert und sichtbar gemacht.</p>
+
+          <p>Hochschulangehörige haben die Möglichkeit, ihre Veröffentlichungen und wissenschaftlichen Arbeiten selbstständig einzutragen, zu verwalten und, sofern gewünscht, Open Access zu veröffentlichen.</p>
+
+          <p>Weitere Informationen zur Nutzung von ELSA finden Sie in unserer <a href="https://www.th-owl.de/skim/dokumentation/elsa/" target="_blank">Dokumentation</a>.</p>
         </div>
       </div>
     </div>
