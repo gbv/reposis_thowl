@@ -66,3 +66,22 @@ $dropdown-link-hover-bg: $owl-gray-light;
 $dropdown-link-active-color: white;
 $dropdown-link-active-bg: $owl-red;
 $dropdown-border-radius: 0;
+
+
+// Pagination
+// overwrite bootswatch width bs default
+$prefix: "bs-";
+$component-active-bg:$primary;
+
+$pagination-color:                  var(--#{$prefix}link-color);
+$pagination-bg:                     var(--#{$prefix}body-bg);
+$pagination-border-width:           var(--#{$prefix}border-width);
+$pagination-border-color:           var(--#{$prefix}border-color);
+$pagination-hover-color:            var(--#{$prefix}link-hover-color);
+$pagination-hover-bg:               var(--#{$prefix}tertiary-bg);
+$pagination-hover-border-color:     var(--#{$prefix}border-color);
+$pagination-active-bg:              $component-active-bg;
+$pagination-active-border-color:    $component-active-bg;
+$pagination-disabled-color:         var(--#{$prefix}secondary-color);
+$pagination-disabled-bg:            var(--#{$prefix}secondary-bg);
+$pagination-disabled-border-color:  var(--#{$prefix}border-color);
