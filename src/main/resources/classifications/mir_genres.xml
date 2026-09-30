@@ -29,6 +29,12 @@
         <label xml:lang="x-hosts" text="journal" />
         <label xml:lang="x-mapping" text="marcgt:article diniPublType2022:ResearchArticle schemaOrg:ScholarlyArticle" />
       </category>
+      <category ID="newspaper_article">
+        <label xml:lang="de" text="Zeitungsartikel" />
+        <label xml:lang="en" text="Newspaper article" />
+        <label xml:lang="x-hosts" text="journal" />
+        <label xml:lang="x-mapping" text="marcgt:article diniPublType2022:Article schemaOrg:Article" />
+      </category>
       <category ID="chapter">
         <label xml:lang="en" text="Book chapter"/>
         <label xml:lang="de" text="Buchkapitel"/>

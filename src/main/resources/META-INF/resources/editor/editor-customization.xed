@@ -17,6 +17,9 @@
     <xed:template id="genres.scientific_journal_article">
         <xed:include ref="genres.article" />
     </xed:template>
+    <xed:template id="genres.newspaper_article">
+        <xed:include ref="genres.article" />
+    </xed:template>
     <xed:template id="genres.abstract">
         <xed:include ref="genres.article" />
     </xed:template>
