@@ -1024,6 +1024,10 @@
     <category ID="I00">
       <label xml:lang="de" text="Institute und wissenschaftliche Einrichtungen"/>
       <label xml:lang="en" text="Institute und wissenschaftliche Einrichtungen"/>
+      <category ID="DEP1201">
+        <label xml:lang="de" text="School of Education"/>
+        <label xml:lang="en" text="School of Education"/>
+      </category>
       <category ID="DEP1700">
         <label xml:lang="de" text="Institute der Fachbereiche"/>
         <label xml:lang="en" text="Institute der Fachbereiche"/>
@@ -1032,22 +1036,27 @@
         <label xml:lang="de" text="Archiv FSPs Forschungsschwerpunkte"/>
         <label xml:lang="en" text="Archiv FSPs Forschungsschwerpunkte"/>
       </category>
-      <category ID="DEP1301_">
+      <category ID="DEP1301">
         <label xml:lang="de" text="Forschungsschwerpunkt Construction Lab"/>
         <label xml:lang="en" text="Forschungsschwerpunkt Construction Lab"/>
       </category>
-      <category ID="DEP1302_">
+      <category ID="DEP1302">
         <label xml:lang="de" text="Forschungsschwerpunkt Perception Lab"/>
         <label xml:lang="en" text="Forschungsschwerpunkt Perception Lab"/>
       </category>
-      <category ID="DEP1303_">
+      <category ID="DEP1303">
         <label xml:lang="de" text="Forschungsschwerpunkt Urban Lab"/>
         <label xml:lang="en" text="Forschungsschwerpunkt Urban Lab"/>
       </category>
-      <category ID="DEP1304_">
+      <category ID="DEP1304">
         <label xml:lang="de" text="Forschungsschwerpunkt nextPlace"/>
         <label xml:lang="en" text="Forschungsschwerpunkt nextPlace"/>
       </category>
+      <category ID="DEP1308">
+        <label xml:lang="de" text="Forschungsschwerpunkt SmartFood Technology"/>
+        <label xml:lang="en" text="Forschungsschwerpunkt SmartFood Technology"/>
+      </category>
+
       <category ID="I01">
         <label xml:lang="de" text="IDS - Institut für Designstrategien"/>
         <label xml:lang="en" text="IDS - Institut für Designstrategien"/>
@@ -1996,10 +2005,6 @@
       <category ID="DEP1100">
         <label xml:lang="de" text="S(kim) Service Kommunikation Information und Medien"/>
         <label xml:lang="en" text="S(kim) Service Kommunikation Information und Medien"/>
-      </category>
-      <category ID="DEP1201">
-        <label xml:lang="de" text="School of Education"/>
-        <label xml:lang="en" text="School of Education"/>
       </category>
     </category>
   </categories>
